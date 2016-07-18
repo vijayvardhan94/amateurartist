@@ -2383,10 +2383,10 @@
 	}
 
 		.thumbnails a {
-			-moz-transition: all 0.2s ease;
-			-webkit-transition: all 0.2s ease;
-			-ms-transition: all 0.2s ease;
-			transition: all 0.2s ease;
+			-moz-transition: all 0.1s ease;
+			-webkit-transition: all 0.1s ease;
+			-ms-transition: all 0.1s ease;
+			transition: all 0.1s ease;
 			border-bottom: none;
 			display: block;
 			width: 100%;
